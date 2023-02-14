@@ -66,7 +66,8 @@ public class CuentaCorriente {
 		
 		
 		//Metodos
-	}	
+	}
+	//con este metodo se creara la cuenta
 	public static CuentaCorriente CrearCuenta() {
 		System.out.println("Crear cuenta: ");
 		Scanner entradaDniTit = new Scanner(System.in);	
